@@ -1,0 +1,1 @@
+Projeto para melhor entendimento do JS
